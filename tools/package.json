@@ -1,0 +1,11 @@
+{
+    "name": "my-date-formate-tools",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "提供了格式化时间，HTMLEscape 相关的功能",
+    "keywords": [
+        "dateFormate",
+        "escape"
+    ],
+    "license": "ISC"
+}
